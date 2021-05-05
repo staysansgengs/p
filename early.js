@@ -16,7 +16,7 @@ const addresses = {
 //  BUSD: '0x55d398326f99059ff775485246999027b3197955', gabisa, pake wbnb dulu
   factory: '0xca143ce32fe78f1f7019d7d551a6402fc5350c73', //ini v1 > '0xBCfCcbde45cE874adCB698cC183deBcF17952812',
   router: '0x10ed43c718714eb63d5aa57b78b54704e256024e', //ini v1 >'0x05fF2B0DB69458A0750badebc4f9e13aDd608C7F',
-  recipient: '' //address walletmu
+  recipient: '0x5A93d9b946a680b8528C65DeD01cbb9776B6dec5' //address walletmu
 };
 
 const mnemonic = ''; //privatekey tanpa 0
